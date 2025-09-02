@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Secrets (never commit real env files)
+.env
+.env.*
+!.env.example
